@@ -53,7 +53,7 @@ These repositories are exploratory architectural artifacts rather than productio
 
 ---
 
-### Pinned Repos
+### Pinned Repos (Below)
 
 * Stability-Before-Alignment (Theoretical Anchor)
 * Transition-Grammar-for-Reasoning-Systems (Telemetry Foundations)
