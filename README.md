@@ -9,15 +9,22 @@
 
 > **How do systems remain stable when assumptions fail?**
 
-Across AI systems, governance, infrastructure, and cognition, the recurring constraint is the same: **Stability under pressure.** 
 
-This profile contains a distributed body of exploratory research examining system behavior, coordination, drift, and constraint across domains.
+My work explores recurring structural patterns across:
+
+* AI systems
+* governance
+* infrastructure
+* cognition
+* adaptive control systems
+
+The focus is on stability under pressure, constraint management, and failure behavior in complex environments.
 
 ---
 
-## 🗺️ The Research Index
+## 🗺️ Research Index
 
-Central directory for active and archived research paths:
+Central directory for active repositories, conceptual foundations, and experimental work:
 
 ### 📂 [leenathomas01/research-index](https://github.com/leenathomas01/Research-index)
 
@@ -33,12 +40,12 @@ research-index/
 
 ## Method
 
-These repositories are exploratory research artifacts developed through iterative human-AI collaboration.
+This work is developed through iterative human–AI collaboration.
 
-* **Human**: framing, boundary definition, synthesis
-* **AI**: iteration, expansion, adversarial pressure-testing
+* **Human**: framing, synthesis, constraint definition
+* **AI**: exploration, iteration, adversarial pressure-testing
 
-The focus is less on products and more on understanding how complex systems behave under constraint, instability, and adaptation.
+These repositories are exploratory architectural artifacts rather than production systems.
 
 ---
 
