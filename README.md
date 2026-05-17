@@ -1,4 +1,4 @@
-# Hi, I'm Leena Thomas 👋
+# Hi, I'm Leena 👋
 
 ### Systems Researcher & Architect
 *Exploring stability, adaptation, and control in complex systems.*
@@ -8,7 +8,6 @@
 ### Core Question
 
 > **How do systems remain stable when assumptions fail?**
-
 
 My work explores recurring structural patterns across:
 
@@ -35,7 +34,6 @@ research-index/
 ├── Governance & Restraint
 └── Conceptual Seeds
 ```
-
 ---
 
 ## Method
@@ -46,6 +44,8 @@ This work is developed through iterative human–AI collaboration.
 * **AI**: exploration, iteration, adversarial pressure-testing
 
 These repositories are exploratory architectural artifacts rather than production systems.
+
+_I use the nickname Zee in AI interactions._
 
 ---
 
