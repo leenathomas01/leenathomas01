@@ -5,7 +5,7 @@
 
 ---
 
-## 🧭 Core Thesis
+### Core Thesis
 
 > **How do complex systems remain stable when primary assumptions fail?**
 
@@ -23,15 +23,15 @@ To explore the paths, structural maps, and individual project repositories, proc
 
 ```
 research-index/
-├── 🧠 Conceptual Foundations
-├── 🏗️ System Architecture
-├── ⚖️ Governance & Restraint
-└── ⚡ Conceptual Seeds
+├── Conceptual Foundations
+├── System Architecture
+├── Governance & Restraint
+└── Conceptual Seeds
 ```
 
 ---
 
-## 🛠️ Method: Human-AI Collaboration
+## Method: Human-AI Collaboration
 
 These repositories are not products. They are **constraint-driven reasoning artifacts** produced through a structured loop:
 * **Human**: Defines system boundaries, semantic anchors, and cross-domain synthesis.
