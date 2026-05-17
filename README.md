@@ -1,23 +1,23 @@
 # Hi, I'm Leena Thomas 👋
 
 ### Systems Researcher & Architect
-*Exploring stability, state control, and structural restraint in complex, adaptive systems.*
+*Exploring stability, adaptation, and structural control in complex systems.*
 
 ---
 
-### Core Thesis
+### Core Question
 
-> **How do complex systems remain stable when primary assumptions fail?**
+> **How do systems remain stable when assumptions fail?**
 
-Across AI systems, infrastructure, governance, and cognition—the structural constraint remains the same: **Stability under pressure.** 
+Across AI systems, governance, infrastructure, and cognition, the recurring constraint is the same: **Stability under pressure.** 
 
-This profile hosts a distributed, non-linear body of work testing these system boundaries. 
+This profile contains a distributed body of exploratory research examining system behavior, coordination, drift, and constraint across domains.
 
 ---
 
 ## 🗺️ The Research Index
 
-To explore the paths, structural maps, and individual project repositories, below is the central directory:
+Central directory for active and archived research paths:
 
 ### 📂 [leenathomas01/research-index](https://github.com/leenathomas01/Research-index)
 
@@ -31,14 +31,17 @@ research-index/
 
 ---
 
-## Method: Human-AI Collaboration
+## Method
 
-These repositories are not products. They are **constraint-driven reasoning artifacts** produced through a structured loop:
-* **Human**: Defines system boundaries, semantic anchors, and cross-domain synthesis.
-* **AI**: Enables rapid iteration, expansion, and exploration.
+These repositories are exploratory research artifacts developed through iterative human-AI collaboration.
 
-*Probes into system boundaries where stability, control, and adaptation intersect.*
+* **Human**: framing, boundary definition, synthesis
+* **AI**: iteration, expansion, adversarial pressure-testing
+
+The focus is less on products and more on understanding how complex systems behave under constraint, instability, and adaptation.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/leena-t-4895a315b/) [Medium](https://medium.com/@leenathomas01)
+[LinkedIn](https://www.linkedin.com/in/leena-t-4895a315b/) 
+
+[Medium](https://medium.com/@leenathomas01)
