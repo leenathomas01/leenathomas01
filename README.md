@@ -52,13 +52,3 @@ These repositories are exploratory architectural artifacts rather than productio
 [LinkedIn](https://www.linkedin.com/in/leena-t-4895a315b/)    |  [Medium](https://medium.com/@leenathomas01)
 
 ---
-
-### Pinned Repos (Below)
-
-* Stability-Before-Alignment (Theoretical Anchor)
-* Transition-Grammar-for-Reasoning-Systems (Telemetry Foundations)
-* connector-os (Applied Control System Architecture)
-* hyperloop-fxso (Emergent Intelligence Field Theory)
-* Unlearnable-interference (Physical Signal Stress Testing)
-
---- 
