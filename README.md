@@ -1,7 +1,7 @@
 # Hi, I'm Leena Thomas 👋
 
 ### Systems Researcher & Architect
-*Exploring stability, adaptation, and structural control in complex systems.*
+*Exploring stability, adaptation, and control in complex systems.*
 
 ---
 
