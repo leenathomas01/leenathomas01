@@ -17,7 +17,7 @@ This profile hosts a distributed, non-linear body of work testing these system b
 
 ## 🗺️ The Research Index
 
-To explore the paths, structural maps, and individual project repositories, proceed directly to the central directory:
+To explore the paths, structural maps, and individual project repositories, below is the central directory:
 
 ### 📂 [leenathomas01/research-index](https://github.com/leenathomas01/Research-index)
 
