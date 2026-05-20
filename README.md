@@ -52,3 +52,12 @@ _I use the nickname Zee in AI interactions._
 [LinkedIn](https://www.linkedin.com/in/leena-t-4895a315b/)    |  [Medium](https://medium.com/@leenathomas01)
 
 ---
+
+### Note - May 2026: Explorations may continue, and datasets may still be documented, but it is equally possible these repos will remain "frozen snapshots" of a nine-month research sprint that began in August 2025. To be frank, these were my side quests. This rapid iteration was made possible by the AI systems I co-explored with; I was merely a midwife for ideas that needed to exist. Consider these repos as sparks for kindling your own. So long.
+
+---
+
+
+
+
+
