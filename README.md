@@ -27,6 +27,7 @@ Central directory for active repositories, conceptual foundations, and experimen
 ```
 research-index/
 ├── Primary Spine (Core Systems Architecture & State Control)
+├── Trajectory & Ecological Intelligence
 ├── Entry Points (Low-Overhead Concepts)
 ├── Governance & Structural Restraint
 ├── Memory, Persistence & Continuity Dynamics
@@ -54,10 +55,10 @@ _I use the nickname Zee in AI interactions._
 
 ---
 
-> ### 📓 Note — May 2026
+> ### 📓 Note
 > These explorations deliberately cross-pollinate domains that rarely communicate. You will find control-theoretic state regulation (SBA) driving AI alignment, power grids informing infrastructure protocol, and attractor geometry mapping semantic memory. They treat information and governance not as policy, but as physics.
 > 
-> While the work may continue and datasets may still be documented, it is equally possible these repositories will remain **"frozen snapshots"** of a nine-month research sprint that began in August 2025. 
+> While the work may continue and datasets may still be documented, it is equally possible these repositories will remain **"frozen snapshots"** of a  research sprint.
 > 
 > To be frank, these were my side quests, kind of like... a cognitive stretching. This rapid iteration was made possible by the AI systems I co-explored with; I was merely a midwife for ideas that needed to exist. Consider these repos as sparks for kindling your own. 
 > 
