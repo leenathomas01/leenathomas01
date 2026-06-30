@@ -65,7 +65,7 @@ _I use the nickname Zee in AI interactions._
 
 >Some of these ideas may eventually prove useful. Others may prove gloriously wrong. Both outcomes are welcome.
 
->These were side quests - cognitive stretching through iterative collaboration with AI systems. I think of myself less as an inventor than as someone who enjoys noticing patterns and leaving well-documented trails for others to inspect, challenge, or ignore.
+>These were side quests - cognitive stretching through iterative collaboration with AI systems. I think of myself as someone who enjoys noticing patterns and leaving well-documented trails for others to inspect, challenge, or ignore.
 
 >If you're looking for polished products, this isn't your stop.
 
@@ -73,16 +73,3 @@ _I use the nickname Zee in AI interactions._
 
 > **"Welcome to the weird side of GitHub."**
 >
->⚠️
->_Ideas may cross-pollinate unexpectedly._
->
->_Control theory may escape containment._
->
->_Whales may become relevant with little warning._
->
->_Proceed only if you enjoy well-documented intellectual rabbit holes._
-
-
-
-
-
