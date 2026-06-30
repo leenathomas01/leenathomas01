@@ -71,9 +71,9 @@ _I use the nickname Zee in AI interactions._
 
 >If you're looking for unusual research questions with unusually thorough documentation ...
 
->⚠️ **"Welcome to the weird side of GitHub."**
+> **"Welcome to the weird side of GitHub."**
 >
->
+>⚠️
 >_Ideas may cross-pollinate unexpectedly._
 >
 >_Control theory may escape containment._
